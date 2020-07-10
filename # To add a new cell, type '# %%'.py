@@ -1082,40 +1082,42 @@ head(sort(r2Models, decreasing = T), 1)
 # %% [markdown]
 # Caso tenha alguma dúvida, sugestão ou apenas queira trocar uma ideia sobre este projeto, não hesite em entrar em contato comigo!
 # %% [markdown]
-# <table align='center'>
-#     <tr style=" background-color: rgba(0,0,0,0);">
-#         <td>
-#             <img src="https://image.flaticon.com/icons/svg/732/732026.svg" alt="Email" height="42" width="42">
-#         </td>
-#         <td>
-#             <p>
-#                 <a href="mailto:clauder.noronha@gmail.com">E-mail</href>
-#             </p>
-#         </td>
-#     <td>
-#             <img src="https://image.flaticon.com/icons/svg/254/254394.svg" alt="Linkedin" height="42" width="42">
-#     </td>
-#     <td>
-#         <p>
-#             <a href="https://www.linkedin.com/in/clauder-noronha-912b6655/">Linkedin</href>
-#         </p>
-#     </td>
-#     <td>
-#         <img src="https://image.flaticon.com/icons/svg/2111/2111432.svg" alt="Github" height="42" width="42">
-#     </td>
-#     <td>
-#         <p>
-#             <a href="https://github.com/CLAUDERNORONHA">Github</href>
-#         </p>
-#     </td>
-#     <td>
-#         <img src="https://image.flaticon.com/icons/svg/1667/1667233.svg" alt="Site" height="42" width="42">
-#     </td>
-#     <td>
-#         <p>
-#             <a href="https://claudernoronha.github.io/cn/">Site</href>
-#         </p>
-#     </td>
-#   </tr>
-# </table>
 # 
+
+<table align='center'>
+   <tr style=" background-color: rgba(0,0,0,0);">
+        <td>
+            <img src="https://image.flaticon.com/icons/svg/732/732026.svg" alt="Email" height="42" width="42">
+        </td>
+         <td>
+            <p>
+                <a href="mailto:clauder.noronha@gmail.com">E-mail</href>
+            </p>
+         </td>
+    <td>
+             <img src="https://image.flaticon.com/icons/svg/254/254394.svg" alt="Linkedin" height="42" width="42">
+     </td>
+     <td>
+         <p>
+            <a href="https://www.linkedin.com/in/clauder-noronha-912b6655/">Linkedin</href>
+         </p>
+     </td>
+     <td>
+         <img src="https://image.flaticon.com/icons/svg/2111/2111432.svg" alt="Github" height="42" width="42">
+     </td>
+     <td>
+         <p>
+             <a href="https://github.com/CLAUDERNORONHA">Github</href>
+        </p>
+     </td>
+    <td>
+        <img src="https://image.flaticon.com/icons/svg/1667/1667233.svg" alt="Site" height="42" width="42">
+     </td>
+     <td>
+         <p>
+             <a href="https://claudernoronha.github.io/cn/">Site</href>
+         </p>
+     </td>
+   </tr>
+ </table>
+ 
