@@ -12,8 +12,5 @@ Este conjunto de dados contém informações coletadas pelo Serviço de Censo do
 
 **Objetivo:** prever os preços de casas em Boston a partir das informações fornecidas pelo conjunto de dados. Iremos avaliar os modelos preditivos a serem desenvolvidos a partir da métrica *R-squared* (**R2**).
 
-Para visualizar a análise completa feita neste projeto, acesse este link:
-
-* https://franklin390.github.io/Challenge_Project_01_Boston_Houses/
 
 ---
